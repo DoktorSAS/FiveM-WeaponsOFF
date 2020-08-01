@@ -1,6 +1,3 @@
---[[
-	AUTHOR : Soig
-]]--
 
 local pedindex = {}
 
